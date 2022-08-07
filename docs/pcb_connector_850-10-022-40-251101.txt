@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-04122013-066143";"";
+"REFERENCE";"850-10-022-40-251101";"";
+"TraceParts.PartTitle";"SMD pin connector 1.27 mm, single row, parallel mount short solder termination and wider insulator for easier pick and place, 22 contacts, 0,25 µm gold / 0,25 µm gold";"";
+"TraceParts.InstanceId";"10-04122013-066143ED34YKAI1ILHQDRNRWU7TXYAG";"";
+"SUPPLIER";"preci-dip";"";
+"DESIGN";"SMD pin connector 1.27 mm, single row, parallel mount short solder termination and wider insulator for easier pick and place, 22 contacts, 0,25 µm gold / 0,25 µm gold";"";
+"TraceParts.PartVersion";"1.1.0";"";
+"TraceParts.PartLanguage";"en";"";
