@@ -1,7 +1,6 @@
 (footprint "SOIC-44-castellatedholes" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62E5389B)
-  (attr smd)
   (fp_text reference "U?" (at -0.92 -14.85) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f2d404b6-1993-4de0-b78d-3ca9612287c7)
@@ -494,9 +493,4 @@
           (xy 0.635 -0.3175)
         ) (width 0) (fill yes))
     ) (tstamp 29d7a70f-5605-4ea9-ac43-92123ec48985))
-  (model "${KISYS3DMOD}/Package_SO.3dshapes/PSOP-44_16.9x27.17mm_P1.27mm.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -90))
-  )
 )
